@@ -5,11 +5,12 @@ const Courses = () => {
     <div className="px-12 py-12">
       <p className="font-semibold text-secondary">Need Hel For Help</p>
       <h1 className="text-4xl font-bold text-primary">Our Causes</h1>
+      <div class="divider mx-auto w-52 text-secondary"></div>
       <p className="md:px-96 mx-auto">
         Join hands with us to accomplish all these projects of serving humanity
         and making this world a better place to live.
       </p>
-      <div class="divider mx-auto w-52 text-secondary"></div>
+      
 
       <div className="grid md:grid-cols-3 grid-cols gap-4">
         <div class="card w-96 bg-base-100 shadow-xl">

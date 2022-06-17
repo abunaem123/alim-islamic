@@ -1,0 +1,7 @@
+.box:hover{
+    background-color: #D1AD3C;
+    color: white;
+}
+.box:hover .name{
+    color: white;
+}
